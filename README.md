@@ -16,7 +16,7 @@ fork [https://github.com/CCChieh/IBMYes](https://github.com/CCChieh/IBMYes)  lan
 * 创建公共应用程序
 * 填写相关信息: 区域达拉斯(免费). 内存最高256M. 应用名称. 配置资源选Python
 * 应用程序域名 就是 应用名称+域, 比如: `ibmyes.us-south.cf.appdomain.cloud`
-* 点击右侧 创建    
+* 点击右侧 创建                
 
 ### 配置 Cloudflare 高速节点中转
 这部分不配置也可以直接连 应用程序域名 使用, 就是有点慢.
