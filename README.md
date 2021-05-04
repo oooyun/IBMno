@@ -38,7 +38,7 @@ addEventListener(
 ```
 * 点击保存并部署, 这里会给一个网址(比如`cloudflare_workers.dev`), 这个就是 v2ray 客户端要连的地址.
 
-### 利用Github Actions 自动部署 IBM Cloud Fonudray
+### 利用Github Actions 自动部署 IBM Cloud Fonudray   
 * 返回 github, 到本项目 [https://github.com/fcying/IBMYes](https://github.com/fcying/IBMYes)
 * 点击右上角 `Use this template`, 生成一个自己的仓库(设为`public`,如果要用`private`,需要修改`deploy.sh`,提供一个可以下载的`config.json`连接)
 * 点击自己仓库的 Settings.
