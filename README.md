@@ -22,7 +22,7 @@ fork [https://github.com/CCChieh/IBMYes](https://github.com/CCChieh/IBMYes)  lan
 这部分不配置也可以直接连 应用程序域名 使用, 就是有点慢.
 * 注册并登录[https://www.cloudflare.com/](https://www.cloudflare.com/)
 * 点击 Workers
-* 点击 创建Worker
+* 点击 创建Worker   
 * 在脚本位置加入下面这段, `url.hostname`修改为对应的 应用程序域名.
 ```
 addEventListener(
